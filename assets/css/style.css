@@ -3,4 +3,5 @@
 
 @import "{{ site.theme }}";
 
-body{background:black;color:white}
+body{background:black; color:white;}
+a{text-decoration-line: underline;}
