@@ -1,0 +1,6 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{background:black;color:white}
